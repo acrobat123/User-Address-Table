@@ -1,0 +1,9 @@
+GET http://localhost:3005/getUsers
+
+###
+
+GET http://localhost:3005/getAddress
+
+####
+POST http://localhost:3005/register
+
